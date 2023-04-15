@@ -1,4 +1,4 @@
-# Learn-RF
+# Learn Random Forest Regressor
 This project contains of:
 - Import Libraries
 - Import Dataset
